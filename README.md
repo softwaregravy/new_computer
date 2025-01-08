@@ -11,6 +11,5 @@ I run OS X. What do I do to set up from scratch
 ## Setups
 ### OS X
 * Scroll direction -- old dog
-* 
 ### iTerm2
 * system key control tick
