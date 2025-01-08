@@ -3,6 +3,7 @@ I run OS X. What do I do to set up from scratch
 
 ## Installs 
 - [ ] iTerm2
+- [ ] Homebrew
 - [ ] Chrome
 - [ ] Firefox
 - [ ] 1Password
