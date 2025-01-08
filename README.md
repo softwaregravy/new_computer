@@ -14,11 +14,10 @@ I run OS X. What do I do to set up from scratch
 ## Setups
 ### OS X
 * Scroll direction -- old dog
-* 
 ### iTerm2
 * system key control tick
 ### Programming
-* 
+* [New Github SSH keys](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent)
 * Set up Ruby
   * rbenv
 * Set up Python
