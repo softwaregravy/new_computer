@@ -17,7 +17,7 @@ I run OS X. What do I do to set up from scratch
 ### iTerm2
 * system key control tick
 * [New Github SSH keys](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent)
-*   Add github to Known hosts
+  * Add github to Known hosts
 ### Programming
 * Zsh setup
 * Set up Ruby
